@@ -58,11 +58,11 @@
 }
 
 #fisrtlist{
-	color: orange;
+	color: green;
 }
 
 .rightmenu ul li:hover{
-	color: orange;
+	color: green;
 }
 
 
@@ -114,6 +114,6 @@
 	text-transform: uppercase;
 	font-weight: bold;
 	line-height: 40px;
-	border: 3px solid white;
+	border: 3px solid green;
 	width: 150px;
 }
