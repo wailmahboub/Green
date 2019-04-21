@@ -62,7 +62,7 @@
 }
 
 .rightmenu ul li:hover{
-	color: green;
+	color:green;
 }
 
 
@@ -103,7 +103,7 @@
 	width: 150px;
 	font-family: 'Montserrat', sans-serif;
 	margin-top: 25px;
-	border: 3px solid green;
+	border: 3px solid white;
 }
 
 #buttontwo{
@@ -114,6 +114,6 @@
 	text-transform: uppercase;
 	font-weight: bold;
 	line-height: 40px;
-	border: 3px solid green;
+	border: 3px solid white;
 	width: 150px;
 }
