@@ -71,7 +71,7 @@
 	margin-top: 185px;
 	text-transform: uppercase;
 	text-align: center;
-	color:white;
+	color:green;
 }
 
 .text h4{
@@ -88,7 +88,7 @@
 }
 
 .text h3{
-	font-size: 12px;
+	font-size: 14px;
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -111,7 +111,7 @@
 	background-color: transparent;
 	border: none;
 	font-family: 'Montserrat', sans-serif;
-	text-transform: uppercase;
+	text-transform: uppercase; 
 	font-weight: bold;
 	line-height: 40px;
 	border: 3px solid white;
